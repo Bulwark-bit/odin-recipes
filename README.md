@@ -1,1 +1,3 @@
 # odin-recipes
+I am working on the project to make a recipe website.
+it will use all of the skills I have learned up to this point with HTML. I am a little nervous, but I know I'm not on my own. I know that I just need to remember the code and what order it needs to be done in. If I have questions or doubts, I can look back at theodinproject.com for help; and then beyond if need be. But I believe I can do this!
