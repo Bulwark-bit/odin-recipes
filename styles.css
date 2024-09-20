@@ -1,15 +1,50 @@
-h1{
-      text-align:center;
-      color:black;
-      background-color:red;
+* {
+      background-color:#999;
+      color:#fff;
+      font-family:Arial,sans-serif;
+      font-size: 25px
 }
-li{
-      font-size:25px;
+h1,
+h3 {
+      text-decoration: underline;
+      text-align: center;
 }
-a{
-      font-size:25px;
-      background-color:yellow;
+  h1 {
+      font-size: 45px;
 }
-img{
-      text-align:center;
+  h3 {
+      font-size: 35px;
+}
+ul+ol{
+      font-weight: bold;
+}
+.link {
+      color:rgb(50,50,255);
+}
+ul .link {
+      font-size: 30px;
+}
+.small-img {
+      display: block;
+      margin-top: 1in;
+      margin-bottom: 1in;
+      margin-left: 1in;
+      margin-rigth:
+}
+.link#index {
+      font-size:20px;
+      font-weight:700;
+      margin-right: auto;
+      margin-left: 39.5%;
+}
+.link#source {
+      color:lightskyblue;
+      font-size: 15px;
+      margin-right: auto;
+      margin-left: 40.75%;
+}
+.top-img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
 }
