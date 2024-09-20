@@ -26,10 +26,9 @@ ul .link {
 }
 .small-img {
       display: block;
-      margin-top: 1in;
-      margin-bottom: 1in;
-      margin-left: 1in;
-      margin-rigth:
+      margin-top: 3mm;
+      margin-bottom: 5mm;
+      margin-left: 1cm;
 }
 .link#index {
       font-size:20px;
