@@ -1,8 +1,12 @@
-* {
+html {
+      box-sizing: border-box;
       background-color:#999;
       color:#fff;
       font-family:Arial,sans-serif;
       font-size: 25px
+}
+*, *:before, *:after {
+      box-sizing: inherit;
 }
 h1,
 h3 {
@@ -18,8 +22,12 @@ h3 {
 ul+ol{
       font-weight: bold;
 }
+em {
+      padding: 2px;
+}
 .link {
       color:rgb(50,50,255);
+      border:2px solid red;
 }
 ul .link {
       font-size: 30px;
@@ -33,14 +41,18 @@ ul .link {
 .link#index {
       font-size:20px;
       font-weight:700;
-      margin-right: auto;
-      margin-left: 39.5%;
+      padding:2px;
+      margin: 10px;
+      display: flex;
+      justify-content: center;
 }
 .link#source {
       color:lightskyblue;
       font-size: 15px;
-      margin-right: auto;
-      margin-left: 40.75%;
+      padding: 2px;
+      margin: 10px;
+      display: flex;
+      justify-content: center;
 }
 .top-img {
       display: block;
